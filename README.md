@@ -7,9 +7,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shifantasticc&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shifantasticc&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; ![](https://nirzak-streak-stats.vercel.app/?user=shifantasticc&theme=github_dark_dimmed&hide_border=false) &nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=shifantasticc&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=shifantasticc&theme=github_dark_dimmed&hide_border=false)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shifantasticc&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
